@@ -48,8 +48,7 @@ Edit
 1. Make sure Python is installed on your system.
 2. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/habit-tracker-gui.git
-   cd habit-tracker-gui
+   https://github.com/Chirag037/Habit-Tracker-GUI-APP/tree/main
 Run the application:
 
 bash
